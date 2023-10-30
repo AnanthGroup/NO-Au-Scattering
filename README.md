@@ -1,5 +1,5 @@
 # NO-Au-Scattering
-Data for LSC simulations of NO scattering from an Au(111) surface modelled using a Newns-Anderson-Hostein Hamiltonian.
+Data for LSC simulations of NO scattering from an Au(111) surface modeled using a Newns-Anderson-Hostein Hamiltonian.
 
 
 Figure 1a: Column 1: time, Column 2: Z(t)
